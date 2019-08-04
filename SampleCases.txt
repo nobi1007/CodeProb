@@ -8,15 +8,15 @@ hheelloo wwoorrlldd
 
 Output:
 
-hello                       world
+hello                    world
 hheelloo                 world
-hheelloo        wwoorrlldd
+hheelloo            wwoorrlldd
 
 Q2- 
 Input:
 
-2 -> no.of test cases
-7 -> n1
+2 
+7 
 8
 11
 13
@@ -24,14 +24,12 @@ Input:
 9
 10
 17
-1 -> n2
+1
 6 
 
 Output:
-
 9
 7
-
 1
 1
 
@@ -47,20 +45,20 @@ Output:
 # # # # # #
 
 # # # # # # # # # # 
-#                         #
-#                         #
-#                         #
+#                 #
+#                 #
+#                 #
 # # # # # # # # # # 
 
 # # # 
-#    #
-#    # 
-#    #
-#    #
-#    #
-#    #
-#    #
-#    #
+#   #
+#   # 
+#   #
+#   #
+#   #
+#   #
+#   #
+#   #
 # # # 
 
 
