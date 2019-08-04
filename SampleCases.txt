@@ -1,0 +1,121 @@
+Q1- 
+Input: 
+
+3
+hello world
+hheelloo world
+hheelloo wwoorrlldd
+
+Output:
+
+hello                       world
+hheelloo                 world
+hheelloo        wwoorrlldd
+
+Q2- 
+Input:
+
+2 -> no.of test cases
+7 -> n1
+8
+11
+13
+2
+9
+10
+17
+1 -> n2
+6 
+
+Output:
+
+9
+7
+
+1
+1
+
+Q3-
+Input: 
+3
+2 5
+5 10
+10 3
+
+Output:
+# # # # # #
+# # # # # #
+
+# # # # # # # # # # 
+#                         #
+#                         #
+#                         #
+# # # # # # # # # # 
+
+# # # 
+#    #
+#    # 
+#    #
+#    #
+#    #
+#    #
+#    #
+#    #
+# # # 
+
+
+Q4- 
+Input: 
+
+3
+hello world
+huyg&^T&^%7676t&^Gyjhb
+uhiuiuiunhi&&&&&&&&&&&&88
+
+Output:
+
+Alphabets are : helloworld
+Numbers are : NONE
+Special characters are : 
+
+Alphabets are : huygTtGyjhb
+Numbers are : 7676
+Special characters are : &^&^%&^
+
+Alphabets are : uhiuiuiunhi
+Numbers are : 88
+Special characters are : &&&&&&&&&&&&
+
+
+Q5-
+
+Input:
+1
+5
+1 2 3 4 5
+5
+6
+3
+4 
+1
+5
+
+Output: 
+[1, 2, 3] 
+[1, 2] [3] 
+[4]
+[1]
+[2, 3] [5]
+
+Q-6
+
+Input:
+2
+10
+2 0 1 11 2 3 7 7 7 3
+15
+12 23 2 3 11 13 17 13 13 23 2 2 3 3 23
+
+Output:
+7
+2 3 13 23
