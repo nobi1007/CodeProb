@@ -1,0 +1,41 @@
+Sakura, who is very good friend of Naruto, gave him a question. Thinking that Naruto is stupid and will not be able to answer. As Naruto is hard-working he managed to solve it easily without any issues. Now, check if you can solve it without any difficulty.
+
+Problem: You are given X empty bags and you have to fill them with C balls, where C is always a multiple of X. Now, there are only two ways in which you have to fill the bags. Also, you can only fill X balls in one minute. 
+
+1- One way is to put a ball in each bag, and 
+
+2- other way is to first choose the bag with smallest number of balls and fill it with X balls.
+
+Now, you have to figure out, can the distribution of balls can be different by using both the methods
+
+
+
+Constraints: 
+
+1 <= T <= 200
+
+1 <= X <= C <= 10^18
+
+X is divisible by C.
+
+
+
+Explanation: (for first two testcases)1- final distribution by both cases are:
+a)           b)
+             O   
+O O          O
+O O          O O
+O O          O O
+O O          O O
+O O          O O
+Hence, the answer is YES.
+
+2- In next case both distributions will be same.
+
+Input Format:
+The first line of the input contains a single integer T denoting the number of test cases. 
+The description of T test cases follows.
+The first and only line of each test case contains two space-separated integers C and X.
+
+Output Format:
+For each test case, print a single line containing the string "YES" if the final distributions of balls can be different or "NO" if they will be the same (without quotes).
