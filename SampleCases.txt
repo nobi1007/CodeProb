@@ -117,3 +117,18 @@ Input:
 Output:
 7
 2 3 13 23
+
+
+Q-7
+Input:
+4
+10 2
+1000 1
+8 2
+2000 10
+
+Output:
+YES
+NO
+NO
+NO
