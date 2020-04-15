@@ -6,7 +6,8 @@ def matrix_mul_2(x,y):
     ans[1][1] = x[1][0]*y[0][1] + x[1][1]*y[1][1]
     return ans
 
-n = int(input())
+
+n = 1
 bin_n = bin(n-1)[2:]
 arr = []
 base = [[1,1],[1,0]]
